@@ -11,4 +11,4 @@ JAVA SCRIPT
 
 # Link to Webpage
 
-[Portfolio Website](https://neeko623.github.io/Password-Website/)
+[Password Website](https://neeko623.github.io/Password-Website/)
