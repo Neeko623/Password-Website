@@ -7,8 +7,8 @@ CSS
 JAVA SCRIPT
 ## Screenshots
 ![Screeshot](./Password-Generator.png)
-![Screeshot](./Password-Generator (1).png)
+![Screeshot](./Password-Generator1.png)
 
 # Link to Webpage
 
-[Portfolio Website]()
+[Portfolio Website](https://neeko623.github.io/Password-Website/)
